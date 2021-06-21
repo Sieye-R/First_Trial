@@ -1,0 +1,9 @@
+Hello!
+
+git clone address
+
+git status
+git add .
+git ls
+git la
+git push
